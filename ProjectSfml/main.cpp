@@ -38,4 +38,5 @@ public:
 int main() {
 	Main main_object;
 	main_object.start();
+	// test
 }
