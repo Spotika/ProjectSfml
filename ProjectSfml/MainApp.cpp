@@ -14,5 +14,4 @@ void MainApp::loop() {
 
 void MainApp::stop() {
 	std::cout << "Main App ended" << std::endl;
-
 }
